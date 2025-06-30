@@ -1,1 +1,3 @@
-# requestList
+# pnpm install
+
+# pnpm dev
