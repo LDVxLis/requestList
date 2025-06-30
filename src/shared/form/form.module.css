@@ -1,0 +1,22 @@
+.requestForm {
+  max-width: 600px;
+  margin: 0 auto;
+  display: flex;
+  justify-content: center;
+  flex-direction: column;
+}
+
+.requestFormError {
+  color: red;
+}
+
+.requestFormAction {
+  display: flex;
+  justify-content: center;
+}
+
+.requestFormField {
+  width: 100%;
+  padding: 8px;
+  margin-bottom: 16px;
+}
